@@ -1,0 +1,36 @@
+@media(max-width: 800px) {
+    .sidebar {
+      display: none;
+    }
+    
+    #about {
+        direction: rtl;
+    }
+    
+    #profile-pic {
+        display: grid;
+    }
+    .texts {
+        font-weight: 600;
+    display: grid;
+    justify-items: center;
+    }
+
+    .section-container {
+        gap: 4rem;
+        height: 80%;
+        width: 100%;
+        display: grid;
+        justify-items: center;
+    }
+
+    .adjust {
+        display: grid;
+        justify-content: space-evenly;}
+
+    .main-cont {
+        margin: 0;
+    }
+
+
+}
