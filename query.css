@@ -32,5 +32,8 @@
         margin: 0;
     }
 
+    .contact-info-upper-container {
+        display: grid;
+    }
 
 }
